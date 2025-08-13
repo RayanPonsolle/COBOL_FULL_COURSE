@@ -1,3 +1,0 @@
-Jean Dupont,35,Paris
-Marie Curie,40,Lyon
-Albert Einstein,50,Berlin
