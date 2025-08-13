@@ -1,4 +1,4 @@
-\# Fibonacci exercice
+# Fibonacci exercice
 
 
 
